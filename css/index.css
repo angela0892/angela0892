@@ -15,6 +15,7 @@
 }
 
 body {
+  background: var(--gradient);
   color: var(--white);
   font: var(--body1);  
 }
@@ -37,4 +38,8 @@ h4{
 
 h5{
   font: var(--headline5);
+}
+.TITULO {
+  background: black;
+  color:  green;
 }
